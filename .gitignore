@@ -10,4 +10,4 @@ sitemap.xml.gz
 wp-content/cache/
 wp-content/backups/
 .DS_Store
-
+wp-config.php
